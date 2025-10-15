@@ -1,13 +1,17 @@
-# Sviluppo-Full-Stack-di-un-Gestionale-Aziendale-Proprietario
-Questo progetto rappresenta il lavoro svolto nell’ambito della mia tesi triennale in Ingegneria Informatica presso l’Università degli Studi di Salerno, realizzato durante un tirocinio formativo presso l’azienda MAGUSA S.R.L.
+# full-stack-development-of-a-proprietary-business-management-system
+This project represents the work carried out for my Bachelor’s thesis in Computer Engineering at the University of Salerno, developed during an internship at MAGUSA S.R.L.
 
-L’obiettivo è stato lo sviluppo di una sezione del gestionale aziendale dedicata alla gestione degli ordini del magazzino (Direct Fulfillment), con interfaccia ottimizzata per tablet e operatori non tecnici.
+The objective was to develop a section of the company’s management system dedicated to warehouse order handling (Direct Fulfillment), featuring an interface optimized for tablet devices and non-technical operators.
 
-Il progetto segue un’architettura MVC e adotta tecnologie full-stack:
-* Frontend: Angular, Bootstrap
-* Backend: Spring Boot, Spring Security (JWT), Spring Data JPA
-* Database: PostgreSQL
-* Cloud: Upload documenti su AWS S3
+The project follows an MVC architecture and adopts a full-stack approach using the following technologies:
 
-Sono stati implementati i flussi principali di gestione ordini (accettazione, rifiuto, spedizione), con tracciabilità delle operazioni e interfaccia utente responsive.
-Per maggiori dettagli, è possibile consultare il PDF della tesi allegato a questo repository.
+Frontend: Angular, Bootstrap
+
+Backend: Spring Boot, Spring Security (JWT), Spring Data JPA
+
+Database: PostgreSQL
+
+Cloud: Document upload to AWS S3
+
+The main order management workflows (acceptance, rejection, shipment) have been implemented, ensuring operation traceability and a responsive user interface.
+For more details, please refer to the thesis PDF attached to this repository.
