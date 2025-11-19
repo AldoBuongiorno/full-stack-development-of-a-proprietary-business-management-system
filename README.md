@@ -1,4 +1,4 @@
-# full-stack-development-of-a-proprietary-business-management-system
+# Full-Stack-development-of-a-proprietary-business-management-system
 This project represents the work carried out for my Bachelor’s thesis in Computer Engineering at the University of Salerno, developed during an internship at MAGUSA S.R.L.
 
 The objective was to develop a section of the company’s management system dedicated to warehouse order handling (Direct Fulfillment), featuring an interface optimized for tablet devices and non-technical operators.
